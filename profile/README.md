@@ -1,3 +1,53 @@
-# Sun City Hilton Head Commons
+# SCHH Commons  
 
-A shared hub for developing and distributing open-source tech tools and resources by and for the Sun City Hilton Head community. Focused on improving residents’ and prospective residents’ access to SCHH resources and the surrounding area, starting with an AI-powered chatbot for community knowledge sharing.
+**SCHH Commons** is a community-driven initiative focused on creating and sharing open-source tools and resources for Sun City Hilton Head (SCHH) residents and prospective residents. Our mission is to enhance access to SCHH resources and improve the community experience through technology, collaboration, and innovation.
+
+---
+
+## **About SCHH Commons**
+- **Independent and Community-Driven**: SCHH Commons is not affiliated with, endorsed by, or officially associated with Pulte, the developer of Sun City Hilton Head, or any official SCHH organization such as the HOA.
+- **Open Collaboration**: We welcome contributors from all backgrounds who share our vision of creating useful tools for the SCHH community.
+- **Technology for Community**: Our projects range from AI-powered tools to curated knowledge bases, all designed to address community needs.
+
+---
+
+## **Current Projects**
+1. **SCHH AI Chatbot**  
+   An intelligent assistant designed to provide quick and accurate answers about SCHH resources and the surrounding area. Built using advanced AI techniques and a curated knowledge base.  
+   - [Repository Link](#)  
+
+2. **SCHH Knowledge Base**  
+   A collection of community-sourced information to support tools like the SCHH AI Chatbot and other projects.  
+   - [Repository Link](#)
+
+---
+
+## **Contributing**
+We encourage participation from community members! Whether you’re a developer, designer, writer, or simply have ideas, your input is valuable.  
+- **How to Get Involved**:
+  - Suggest new features or improvements via GitHub Issues.
+  - Contribute code, documentation, or resources through Pull Requests.
+  - Share ideas or feedback with the community on our forums or discussions.
+
+For detailed contribution guidelines, visit the CONTRIBUTING.md file in the respective project repositories.
+
+---
+
+## **Code of Conduct**
+We are committed to maintaining a welcoming and respectful environment for all contributors and users. By participating in SCHH Commons, you agree to abide by our [Code of Conduct](https://github.com/schhcommons/.github/blob/main/CODE_OF_CONDUCT.md).
+
+---
+
+## **License**
+Unless otherwise stated, all SCHH Commons projects are released under open-source licenses, such as MIT or CC0, to promote accessibility and collaboration. Refer to individual repositories for specific licensing details.
+
+---
+
+## **Contact**
+For questions, suggestions, or general inquiries, feel free to reach out to us:  
+📧 Email: [info@schhcommons.org](mailto:info@schhcommons.org)  
+
+---
+
+## **Acknowledgements**
+SCHH Commons is inspired by the creativity, talent, and generosity of the Sun City Hilton Head community. Thank you to all contributors who make this initiative possible.
