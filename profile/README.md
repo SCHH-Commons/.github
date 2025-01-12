@@ -33,6 +33,13 @@ For detailed contribution guidelines, visit the CONTRIBUTING.md file in the resp
 
 ---
 
+## **Disclaimer**
+SCHH Commons strives to provide accurate and up-to-date tools and resources for the Sun City Hilton Head community. However, errors may occur, and users are encouraged to verify critical details independently. In particular, AI-generated or augmented content should be carefully scrutinized before being relied upon for important decisions.
+
+The tools offered through SCHH Commons are not intended to replace information available through official channels, such as the SCHH website. Instead, they are provided as conveniences to help users more easily find needed information and engage in conversations that contextualize and enhance the usability of that information.
+
+---
+
 ## **Code of Conduct**
 We are committed to maintaining a welcoming and respectful environment for all contributors and users. By participating in SCHH Commons, you agree to abide by our [Code of Conduct](https://github.com/schhcommons/.github/blob/main/CODE_OF_CONDUCT.md).
 
